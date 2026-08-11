@@ -19,6 +19,13 @@ python main.py
 
 `F8` starts/stops, `F9` is a panic stop. Both work while Roblox has focus.
 
+## "How do I know this isn't a virus?"
+
+Fair question for any downloaded binary. **[VERIFY.md](VERIFY.md)** lists checks
+you can run yourself rather than assurances you have to take on faith — the
+headline being that you can skip the .exe entirely and run the source, which is
+~3,400 lines across 12 files with three mainstream dependencies.
+
 ## Building an .exe to hand out
 
 ```
