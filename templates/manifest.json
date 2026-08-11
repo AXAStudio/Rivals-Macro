@@ -1,0 +1,18 @@
+{
+  "_comment": "reference screen height each template's pixels are native to",
+  "_default": 1133,
+  "ffa": 1074,
+  "play_button": 1439,
+  "join_button": 1439,
+  "play": 1133,
+  "home_play": 1439,
+  "leave_button": 1439,
+  "tohub_button": 1439,
+  "mapvote_banner": 1439,
+  "reconnect": 1439,
+  "connfail_title": 1439,
+  "cancel_button": 1439,
+  "health_bar": 1439,
+  "respawn": 1439,
+  "hud_grenade_launcher": 1439
+}
